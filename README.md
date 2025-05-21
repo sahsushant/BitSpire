@@ -43,7 +43,7 @@ Too many aspiring developers struggle to find practical learning paths and proje
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/bitspire.git
+git clone https://github.com/sahsushant/bitspire.git
 cd bitspire
 
 # 2. Install backend dependencies
